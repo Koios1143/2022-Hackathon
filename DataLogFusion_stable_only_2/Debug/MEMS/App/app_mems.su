@@ -1,0 +1,14 @@
+../MEMS/App/app_mems.c:94:6:MX_MEMS_Init	8	static
+../MEMS/App/app_mems.c:116:12:MX_MEMS_Process	16	static
+../MEMS/App/app_mems.c:149:13:MX_DataLogFusion_Init	32	static
+../MEMS/App/app_mems.c:213:19:MX_DataLogFusion_Process	32	static
+../MEMS/App/app_mems.c:301:13:Init_Sensors	8	static
+../MEMS/App/app_mems.c:319:13:RTC_Handler	64	static
+../MEMS/App/app_mems.c:360:13:FX_Data_Handler	192	static
+../MEMS/App/app_mems.c:429:6:BSP_PB_Callback	16	static
+../MEMS/App/app_mems.c:439:13:Accelero_Sensor_Handler	16	static
+../MEMS/App/app_mems.c:465:13:Gyro_Sensor_Handler	16	static
+../MEMS/App/app_mems.c:491:13:Magneto_Sensor_Handler	56	static
+../MEMS/App/app_mems.c:549:13:Pressure_Sensor_Handler	16	static
+../MEMS/App/app_mems.c:571:13:Temperature_Sensor_Handler	16	static
+../MEMS/App/app_mems.c:594:13:Humidity_Sensor_Handler	16	static
